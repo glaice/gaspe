@@ -11,30 +11,26 @@ include "cabecalho.php";
 include "pos_cabecalho.php";
 
 ?>
-	<div id="titulos"><h2>6º Retiro Espiritual de Carnaval GASPE</h2></div>
-	<div id="imagem-direita">
-                <img src="images/banner.png" style="margin-right:12px;">
-                <p> O GASPE convida a todos a participarem do 6º Retiro Espiritual de Carnaval do grupo, da Matriz São José Operário, da Paróquia Santa Teresinha de Jesus. Serão quatro dias inesquecíveis!<br><br>O Encontro terá início às 15:00h do dia 5 de março de 2011, com muito louvor e momentos emocionantes. O local do encontro, Seminário Diocesano de Marilândia, proporciona um lugar de paz, com uma vista linda. A estrutura do local nos fornece ainda um maior conforto e descanso.<br><br>Esse momento será marcante na vida dos participantes. Com o tema:<b>"Buscai as coisas do alto"</b> e o lema: "Jovem não te detenhas pois o Senhor está contigo", será proporcionado vários meios de aproximação com a vida que leva para a verdadeira felicidade.<br><br></p>
+	<div id="noticia"><h3>6º Retiro Espiritual de Carnaval GASPE</h3>
+        <img src="http://farm6.static.flickr.com/5134/5558666389_6b3acb50c5_m.jpg">
+        <p> O 6º Retiro Espiritual de Carnaval do grupo, da Matriz São José Operário, da Paróquia Santa Teresinha de Jesus. Foram quatro dias inesquecíveis! O Encontro teve início às 17:00h do dia 5 de março, com a entrega de crachás e copos, divisão dos grupos da gincana e momentos emocionantes, tanto no enduro à pé noturno, quanto na adoração que finalizou o dia. O local do encontro, o Seminário Diocesano de Marilândia, proporcionou uma estrutura confortável para os retirandos, de paz, descanso, com uma vista linda. Esse momento foi marcante na vida dos participantes. Com o tema:<b>"Buscai as coisas do alto"</b> e o lema: "Jovem não te detenhas pois o Senhor está contigo", foi proporcionado vários meios de aproximação com a vida que leva para a verdadeira felicidade.<br> <a href="fotosRetiro2011.php">Confira as fotos do encontro!</a></p>
+	</div>
 
-                <h3> Informações importantes:</h3>
-                
-                <ul>
-                    <li><b>Quando acontecerá?</b> 5 à 8 de março de 2011</li>
-                    <li><b>Onde?</b> No Seminário Diocesano, em Marilândia.</li>
-                    <li><b>Como faço para me inscrever?</b> A ficha de inscrição pode ser adiquirida na secretaria da Paróquia Santa Teresinha do Menino Jesus ou com os coordenadores do GASPE. Também é possível escrever um e-mail para: contato@gaspe.com.br , pelo qual receberá orientações para a inscrição.</li>
-                    <li><b>O valor da inscrição?</b> R$ 75,00 reais até 27/02, após R$ 85,00.</li>
-                    <li><b>Conheça o local do retiro:</b> <a href="fotosCEFAS.php">Seminário de Marilândia</a></li>
-                </ul>
-	<br>
+	<div id="noticia"><h3>Venha participar do GASPE</h3>
+        <img src="images/participar.png">
+        <p> O GASPE (Grupo de Amigos Semeando a Paz e o Evangelho) convida a todos a visitarem o grupo, nos sábados as 17:00h, na matriz São José Operário, da Paróquia Santa Teresinha do Menino Jesus. Não percam a chance de conhecer esse grupo, que a cada ano vem fortalecendo seus laços de amizade e sua caminhada cristã. O grupo, além de cantar na matriz, realiza eventos durante o ano que fortalecem a espiritualidade dos jovens. Acolheremos a todos de braços abertos!<br><a href="mensagem.php">Leia mais...</a></p>
+	</div>
 
-<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Aracruz,+Esp%C3%ADrito+Santo,+Brasil&amp;daddr=Maril%C3%A2ndia,+Esp%C3%ADrito+Santo,+Brasil&amp;hl=pt-BR&amp;geocode=FcaT0f4dW3aZ_SkdnYwdr9y3ADEtUCzBkBcmkw%3BFS271_4d3lmV_Smt57NmalO2ADHly6pIkqSI2Q&amp;mra=ls&amp;sll=37.0625,-95.677068&amp;sspn=21.597575,51.416016&amp;ie=UTF8&amp;ll=-19.625773,-40.437927&amp;spn=0.620883,0.878906&amp;z=10&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Aracruz,+Esp%C3%ADrito+Santo,+Brasil&amp;daddr=Maril%C3%A2ndia,+Esp%C3%ADrito+Santo,+Brasil&amp;hl=pt-BR&amp;geocode=FcaT0f4dW3aZ_SkdnYwdr9y3ADEtUCzBkBcmkw%3BFS271_4d3lmV_Smt57NmalO2ADHly6pIkqSI2Q&amp;mra=ls&amp;sll=37.0625,-95.677068&amp;sspn=21.597575,51.416016&amp;ie=UTF8&amp;ll=-19.625773,-40.437927&amp;spn=0.620883,0.878906&amp;z=10" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
 
-        <h3> Apoio:</h3>
+<p style="font-size:14px;"> Em todas as realizações do grupo temos o... <br><br></p>
+  <h3> Apoio:</h3>
                 <ul>
                     <li> Paróquia Santa Teresinha do Menino Jesus</li>
                     <li> Comunidade São José Operário</li>
                 </ul>
-        <p style="font-size:16px;"><br><b> Venha ser um patrocinador do nosso retiro!</b>
+<p style="font-size:14px;"><br>...e nesse ano, tivemos a ajuda de patrocinadores e colaboradores no nosso retiro de canaval:</p>
+
+        <p style="font-size:16px;"><br><b> Conheça os patrocinadores do nosso retiro!</b>
 
 
 		<div id="area-patrocinio">
@@ -54,7 +50,7 @@ include "pos_cabecalho.php";
 		        <img src="images/patrocinador/14.jpg">
 		</div>
 
-		<p style="font-size:16px;"><br><b> Ou seja um colaborador do nosso retiro!</b>
+		<p style="font-size:16px;"><br><b> Conheça os colaboradores do nosso retiro!</b>
 
 		<div id="area-patrocinio">
 	      		<img style="width:405px; height: 120px;" src="images/colaborador/C3.png">
@@ -66,8 +62,6 @@ include "pos_cabecalho.php";
 		        <img src="images/colaborador/C7.png"> 
 		        <img src="images/colaborador/C8.png">
 		</div>
-
-	</div>
 
 
 <?php

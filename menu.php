@@ -28,9 +28,8 @@
                     <li><a href="paroquia.php">Paróquia</a></li>
 <!--                    <li><a href="comunidade.php">Comunidade</a></li>-->
                     <li><a href="agenda.php">Agenda 2011</a></li>
-                    <li><a href="retiro2011.php ">Retiro GASPE 2011</a></li>
                 </ul>
-                <a href="mensagem.php"style="line-height:1.5em; padding:28px 10px; font-weight:bold;">Reuniões e ensaios nos sábados as 18:00 horas, na Matriz. Venha nos visitar!!!</a>
+                <a href="mensagem.php"style="line-height:1.5em; padding:28px 10px; font-weight:bold;">Reuniões e ensaios nos sábados as 17:00 horas, na Matriz. Venha nos visitar!!!</a>
             </div> <!--/ Fechando area-menu\-lateral /-->
 
 <script type="text/javascript"><!--//--><![CDATA[//><!--

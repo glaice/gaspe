@@ -26,8 +26,8 @@ include "pos_cabecalho.php";
     </div>
 
     <div id="fotos">
-    <a href="fotosCEFAS.php"><h3>Retiro 2011 - Seminário de Marilândia:</h3></a>
-    <p><img src="http://farm5.static.flickr.com/4104/5089446050_f8f5258b03_t.jpg">O retiro Espiritual de Carnaval do GASPE desse ano será no Seminário de Marilândia. Para poder ter uma idéia do local, veja as fotos. </p>
+    <a href="fotosRetiro2011.php"><h3>Retiro 2011:</h3></a>
+    <p><img src="http://farm6.static.flickr.com/5134/5558666389_6b3acb50c5_t.jpg">O sexto retiro Espiritual de Carnaval do GASPE aconteceu esse ano, no Seminário de Marilândia. Com o tema: "Buscai as coisas do alto", e o lema: "Jovem: não te detenhas, pois o Senhor está contigo" os jovens tiveram momentos espirituais, emocionantes e alegres durante os quatro dias de carnaval. Para poder ter uma idéia de como foi marcante esse momento, veja as fotos. </p>
     </div>
 
 <?php

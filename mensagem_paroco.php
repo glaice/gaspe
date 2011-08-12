@@ -13,7 +13,7 @@ include "pos_cabecalho.php";
 ?>
 
 
-    <div id="titulos"><h2>Mensagem do Pároco</h2></div>
+    <div id="noticia"><h3>Mensagem do Pároco</h3>
 
     <p> <img src="images/peArthur.jpg"> "Jesus é Amigo fiel e companheiro de jornada que faz experimentar a beleza e a alegria da fé. Quando nos deixamos cativar pelo Senhor descobrimos a verdadeira felicidade em nossa vida.  E o testemunho de nossa sua fé e esperança contagia na luta por um mundo justo, fraterno e solidário, do jeito que Deus quer.<br>
 Jesus teve um amor apaixonado por nós! Um amor apaixonado pelo Senhor e por seu Reino empolga e faz consagrar a vida a causa do Evangelho, até alcançarmos juntos o nosso objetivo: que<b> “toda língua confesse que Jesus Cristo é o Senhor, para a glória de Deus Pai”</b> (Fl 2,11).<br>
@@ -27,7 +27,7 @@ Coloquemos nossos talentos e criatividade a serviço de Jesus Cristo e de sua Ig
 <br><br><center>
 Pe. Arthur Francisco Juliatti dos Santos<br>
 PÁROCO</center><br></p>
-
+</div>
 <?php
 
 include "rodape.php";

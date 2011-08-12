@@ -16,7 +16,9 @@
                 margin-left:auto;  /* para centralizair  */
                 margin-right:auto; /* para centralizar  */
                 width:960px;
-                background:#e9e9e9; 
+                background:#e9e9e9;
+                -moz-border-radius:0px 0px 12px 12px;
+                -webkit-border-radius:0px 0px 12px 12px;
             }
 
 /****************************************************************
@@ -48,14 +50,14 @@
                 float:left;
                 margin-top:16px;
                 margin-bottom:16px;
-                margin-left:5px;
+                margin-left:10px;
                 background:white;
                 -moz-border-radius:10px;
-                -webkit-border-radius:0px;
-                -moz-box-shadow:0px 0px 10px #333;
-                -webkit-box-shadow: 0px 0px 10px #333;
-                box-shadow:0px -2px 10px #333;
-                border:0px solid green;
+                -webkit-border-radius:10px;
+                -moz-box-shadow:0px 0px 0px #333;
+                -webkit-box-shadow: 0px 0px 0px #333;
+                box-shadow:2px 2px 6px #333;
+                border:0px solid #CCCCCC;
             }
 
             #area-menu-lateral  a{
@@ -97,8 +99,8 @@
                 background:white;
                 -moz-box-shadow:0px 0px 10px #333;
                 -webkit-box-shadow: 0px 0px 10px #333;
-                box-shadow:0px -2px 10px #333;
-                border:0px solid green;
+                box-shadow:0px 2px 6px #333;
+                border:0px solid #CCCCCC;
             }
 
             #area-menu-superior li {
@@ -111,16 +113,14 @@
 
             #area-conteudo {
                 float:left;
-                padding:7px;
-                padding-left:15px;
-                margin-top: 12px ;
-                margin-left: 12px ;
                 width:770px;
                 min-height:400px;
                 background:#e9e9e9;
-                border:0px solid green;
+                padding-right:7px;
+                padding-left:10px;
                 padding-bottom:40px;
-                padding-top:25px;
+                margin-top: 12px ;
+                margin-left: 8px ;
             }
 
             #area-conteudo li {
@@ -135,6 +135,7 @@
             #area-conteudo h1  {
                 text-align:center;
                 color:#65564a;
+                padding-top:20px;
             }
 
             #area-conteudo h3  {
@@ -143,14 +144,17 @@
                 font-weight:bold;
                 line-height:1.5em;
                 font-size:16px;
+                padding-top:20px;
             }
-/*
-            #area-conteudo h2  {
+
+            #area-conteudo h2 {
                 color:#65564a;
                 font-weight:bold;
-                line-height:2.5em;
-                font-size:24px;
-            }*/
+                line-height:1.5em;
+                font-size:18px;
+                padding-bottom:10px;
+                padding-top:20px;
+            }
 
             #area-conteudo p {
                 text-align:justify;
@@ -166,13 +170,6 @@
                 margin-left: 15px ;
             }
 
-            #titulos h2 {
-                color:#65564a;
-                font-weight:bold;
-                line-height:1.5em;
-                font-size:18px;
-                padding-bottom:10px;
-            }
 
 /****************************************************************
 *********************** Rodapé **********************************
@@ -186,6 +183,8 @@
                 background:#aa0000;
                 /*background:#b93327;*/
                 height:50px;
+                -moz-border-radius:0px 0px 10px 10px;
+                -webkit-border-radius:0px 0px 10px 10px;
             }
 
 /****************************************************************
@@ -202,36 +201,68 @@
 *********************** Notícias ********************************
 ****************************************************************/
 
-            #noticia {
+   /*         #noticia {
                 border-bottom:1px dotted #CCCCCC;
                 width: 750px;
                 margin-bottom: 30px;
                 float: left;
                 padding-bottom:20px;
             }
+*/
+             #noticia {
+                float:left;
+                width:750px;
+                min-height:180px;
+                margin-bottom:16px;
+                margin-left:5px;
+                background:white;
+                padding:8px;
+                -moz-border-radius:10px 0px 10px 0px;
+                -webkit-border-radius:10px 0px 10px 0px ;
+                box-shadow:0px 2px 6px #333;
+                border:0px solid #CCCCCC;
+	    }
 
-            #noticia img {
+            #noticia img.home {
                 float: right;
-                margin-left: 15px ;
+                margin-top: 12px;
+                margin-left: 8px;
+                margin-right: 8px;
                 width:180px;
                 height: 140px;
-}
+                box-shadow:2px 2px 8px #333;
+	    }
+	    
+	    #noticia img {
+	    margin-top: 10px;
+	    box-shadow:2px 2px 8px #333;
+	    }
 
             #noticia h3 {
                 font-family: Georgia,"Times New Roman",Times,serif;
                 font-size: 20px;
-                font-weight: bold;
+                font-weight: normal;
                 font-style: normal;
                 color: #65564a;
                 text-transform:	none;
-                text-decoration: underline;
+                text-decoration: none;
                 letter-spacing: normal;
                 line-height: 23.4px;
                 float: left;
                 width: 750px;
+                padding-top:0px;
+                border-bottom:1px solid #CCCCCC;
+            }
+            
+            #noticia p {
+            width: 730px;
+            margin-left: 12px;
+            margin-top: 12px;
             }
 
-            #noticia p {
+            #noticia p.home {
+                float: left;
+                width: 540px;
                 font-family: Tahoma,Verdana,Arial,Helvetica,"Bitstream Vera Sans",sans-serif;
                 font-size: 12px;
                 font-weight: 400;
@@ -239,14 +270,13 @@
                 color: #000000;
                 line-height: 16px;
                 text-align: start;
-                text-align:	left;
-                float: left;
-                width: 550px;
+                text-align: left;
                 margin-top: 12px;
-                margin-left: auto;
+                margin-left: 8px;
             }
 
-            #noticia a {
+                
+            #noticia a.link {
                 font-family: Tahoma,Verdana,Arial,Helvetica,"Bitstream Vera Sans",sans-serif;
                 font-size: 12px;
                 font-weight: 400;
@@ -257,10 +287,11 @@
                 text-align:	left;
                 float: left;
                 clear: left;
-                padding-top: 12px;
-                padding-bottom: 12px;
+                padding-top: 8px;
+                padding-bottom: 8px;
             }
-
+            
+            
 
 /****************************************************************
 *********************** Fotos ********************************
@@ -384,6 +415,8 @@
                 clear: both;
                 visibility: hidden;
            }
+
+
 
             p.nome_imagem {
                 width: 160px;

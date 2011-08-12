@@ -19,25 +19,25 @@ include "pos_cabecalho.php";
     <h3>Coordenação</h3>
     <!-- Primeiro coordernador -->
     <div id="imagem-esquerda">
-        <img src="images/membros/warlen.jpg">
+        <img src="http://farm7.static.flickr.com/6146/6033170353_32b1a4a80d_m.jpg">
         <p class="nome_imagem"> Warlen </p>
         <p> (Coordenador de grupo)<br>
-        Aniversário: 12/02
+        Aniversário: 12/02<br>
         warlenam@gmail.com </p>        
     </div>
     <!-- Segundo coordernador -->
     <div id="imagem-esquerda" style="width: 480px;">
-        <img src="images/membros/walas.jpg">
-        <p class="nome_imagem2" style="width: 300px;"> Walas</p>
-        <p> (Coordenador de cântico)<br>
-        Aniversário: 18/05<br>
-        wallastragin@hotmail.com </p>
+        <img src="http://farm7.static.flickr.com/6143/6033202151_ec8a89213a_t.jpg">
+        <p class="nome_imagem2" style="width: 300px;"> Glaice</p>
+        <p>(Vice-coordenadora)<br>
+        Aniversário: 15/03<br>
+        glaice.10@gmail.com </p>
     </div>
 
 
 <!-- Integrantes -->
 
-    <div id="titulos" style="margin-top: 7px;"><h3>Integrantes</h3></div>
+    <div id="titulos" style="margin-top: 10px;"><h3>Integrantes</h3></div>
 
     <!-- Primeira fila -->
     <div id="imagem-esquerda">

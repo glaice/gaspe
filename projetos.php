@@ -11,7 +11,7 @@ include "cabecalho.php";
 include "pos_cabecalho.php";
 
 ?>
-
+	<div id="noticia">
     <h3> Venha participar conosco!!!</h3>
     <p><br> O grupo promove inúmeros projetos com o intuito de crescimento espiritual, social e litúrgico. Mensalmente o GASPE canta na comunidade São José Operário. Reuniões e ensaios ocorrem no sábado, sendo que o horário varia entre as 17:00 e as 19:00 horas.
 <br><br>
@@ -22,10 +22,12 @@ Durante o ano, muitos eventos ocorrem e o grupo tenta participar o máximo poss�
             <img src="images/paiol.jpg">
             <img src="images/corpus.png">
 
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
     </p>
 
-
+</div>
 
 
 

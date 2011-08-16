@@ -34,109 +34,109 @@ include "pos_cabecalho.php";
     <!-- Integrantes -->
         <h2>Integrantes</h2>
         <div id="imagem-esquerda">
-            <img src="images/membros/albert.jpg">
+            <img src="http://farm7.static.flickr.com/6190/6033719302_d669124b39_m.jpg">
             <p class="nome_imagem"> Aderson </p>
             <p>Aniversário: 05/04<br></p>        
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/frajola.jpg">
+            <img src="http://farm7.static.flickr.com/6126/6033728248_a40563f04d_m.jpg">
             <p class="nome_imagem"> Albert </p>
             <p>Aniversário: 03/11<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/andre.jpg">
+            <img src="http://farm7.static.flickr.com/6125/6033171147_cfc284c9b8_m.jpg">
             <p class="nome_imagem"> Alex </p>
             <p>Aniversário: 13/11<br></p>        
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/bruna.jpg">
+            <img src="http://farm7.static.flickr.com/6150/6033170725_b11b96d42c_m.jpg">
             <p class="nome_imagem"> André </p>
             <p>Aniversário: 10/02<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/carol.jpg">
+            <img src="http://farm7.static.flickr.com/6143/6033728484_b361887eac_m.jpg">
             <p class="nome_imagem"> Bruna </p>
             <p>Aniversário: 27/02<br></p>        
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/cris.jpg">
+            <img src="">
             <p class="nome_imagem"> Bruno </p>
             <p>Aniversário: 22/09<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/deivid.jpg">
+            <img src="http://farm7.static.flickr.com/6063/6033727578_56a845fd3f_m.jpg">
             <p class="nome_imagem"> Carolina </p>
             <p>Aniversário: 25/01<br></p>        
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/bete.jpg">
+            <img src="">
             <p class="nome_imagem"> Cleyton </p>
             <p>Aniversário: 13/07<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/bete.jpg">
+            <img src="http://farm7.static.flickr.com/6061/6033728136_2bbf3d27cb_m.jpg">
             <p class="nome_imagem"> Cristiano </p>
             <p>Aniversário: 11/01<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/fabio.jpg">
+            <img src="http://farm7.static.flickr.com/6072/6033171033_cf4e403817_m.jpg">
             <p class="nome_imagem"> Deivid  </p>
             <p>Aniversário: 06/08</p>        
         </div>
        <div id="imagem-esquerda">
-            <img src="images/membros/fernando.jpg">
+            <img src="">
             <p class="nome_imagem"> Edson </p>
             <p>Aniversário: 15/12<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/kelly.png">
+            <img src="http://farm7.static.flickr.com/6206/6033171087_1992ffdd2c_m.jpg">
             <p class="nome_imagem"> Elizabete </p>
             <p>Aniversário: 11/11<br></p>        
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/herica.jpg">
+            <img src="http://www.flickr.com/photos/53451281@N03/6033728552/sizes/s/in/set-72157627287487883/">
             <p class="nome_imagem"> Fernando   </p>
             <p>Aniversário: 08/04<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/hiago.jpg">
+            <img src="">
             <p class="nome_imagem"> Gisele </p>
             <p>Aniversário: 08/05<br>
              </p>        
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/ivone.jpg">
+            <img src="">
             <p class="nome_imagem"> Gizelia </p>
             <p>Aniversário: 02/07<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/ivolmar.jpg">
+            <img src="">
             <p class="nome_imagem"> Gustavo </p>
             <p>Aniversário: 06/03<br>
              </p>        
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/jhonata.jpg">
+            <img src="http://farm7.static.flickr.com/6138/6033719794_bf55ceb855_m.jpg">
             <p class="nome_imagem"> Hiago </p>
             <p>Aniversário: 12/11<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/lucas.jpg">
+            <img src="images/membros/ivone.jpg">
             <p class="nome_imagem"> Ivone </p>
             <p>Aniversário: 11/03</p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/maicon.jpg">
+            <img src="">
             <p class="nome_imagem"> Jackson </p>
             <p>Aniversário: 01/08<br></p> 
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/princila.jpg">
+            <img src="">
             <p class="nome_imagem"> Janine </p>
             <p>Aniversário: 04/09<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/sabrina.jpg">
+            <img src="images/membros/jhonata.jpg">
             <p class="nome_imagem"> Jhonata </p>
             <p>Aniversário: <br></p>
         </div>
@@ -146,67 +146,67 @@ include "pos_cabecalho.php";
             <p>Aniversário: <br></p> 
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/wanderson.jpg">
+            <img src="http://farm7.static.flickr.com/6079/6033169977_345a4029b6_m.jpg">
             <p class="nome_imagem"> Lucas Lopes </p>
             <p>Aniversário: 15/06<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/vava.jpg">
+            <img src="http://farm7.static.flickr.com/6127/6033719404_1818dd5d46_m.jpg">
             <p class="nome_imagem"> Ludimila </p>
             <p>Aniversário: 18/04<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/werlen.jpg">
+            <img src="images/membros/maicon.jpg">
             <p class="nome_imagem"> Maicon </p>
             <p>Aniversário: 17/02<br></p> 
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/wanderson.jpg">
+            <img src="http://farm7.static.flickr.com/6087/6033162331_7690055bd5_t.jpg">
             <p class="nome_imagem"> Marina </p>
             <p>Aniversário: 22/09<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/vava.jpg">
+            <img src="">
             <p class="nome_imagem"> Maycon </p>
             <p>Aniversário: 07/05<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/werlen.jpg">
+            <img src="">
             <p class="nome_imagem"> Michele </p>
             <p>Aniversário: 22/04<br></p> 
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/wanderson.jpg">
+            <img src="">
             <p class="nome_imagem"> Natália </p>
             <p>Aniversário: 19/08<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/vava.jpg">
+            <img src="http://farm7.static.flickr.com/6181/6033719660_f5e6e8f7c5_m.jpg">
             <p class="nome_imagem"> Princila </p>
             <p>Aniversário: 24/02<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/werlen.jpg">
+            <img src="images/membros/sabrina.jpg">
             <p class="nome_imagem"> Sabrina</p>
             <p>Aniversário: 13/11<br></p> 
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/wanderson.jpg">
+            <img src="">
             <p class="nome_imagem"> Stefane </p>
             <p>Aniversário: 26/09<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/vava.jpg">
+            <img src="images/membros/wanderson.jpg">
             <p class="nome_imagem"> Vanderson </p>
             <p>Aniversário: 12/09<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/werlen.jpg">
+            <img src="images/membros/vava.jpg">
             <p class="nome_imagem"> Walecy </p>
             <p>Aniversário: 28/04<br></p> 
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/wanderson.jpg">
+            <img src="images/membros/werlen.jpg">
             <p class="nome_imagem"> Werlen </p>
             <p>Aniversário: 11/10<br></p>
         </div>

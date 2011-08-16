@@ -11,9 +11,13 @@ include "cabecalho.php";
 include "pos_cabecalho.php";
 
 ?>
+<<<<<<< local
+    <div id="titulos"><h2>Mensagem do Grupo</h2></div>
+=======
 
 
     <div id="noticia"><h3>Mensagem do Grupo</h3>
+>>>>>>> other
 
     <p> <img src="images/participar.png"> "Os jovens são muito importantes para a Igreja. Eles são o futuro em todas as instâncias da vida. Também o futuro da Igreja. A Igreja acredita nas possibilidades dos jovens, em sua capacidade de se doar e de amar a Cristo quando o encontram. Os encontros de jovens que são feitos num grupo são, além disso, uma oportunidade para que os jovens se encontrem, orem, compartilhem sua fé e a celebrem profundamente. As participações em eventos religiosos são uma manifestação da juventude da Igreja.
 <br>

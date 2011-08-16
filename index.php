@@ -11,10 +11,10 @@ include "cabecalho.php";
 include "pos_cabecalho.php";
 
 ?>
-	<div id="noticia"><a href="fotosRetiro2011.php"><h3>6º Retiro Espiritual de Carnaval GASPE</h3></a>
-        <a href="fotosRetiro2011.php"> <img class="home" src="http://farm6.static.flickr.com/5134/5558666389_6b3acb50c5_m.jpg"></a>
-        <p class="home"> O 6º Retiro Espiritual de Carnaval do grupo, da Matriz São José Operário, da Paróquia Santa Teresinha de Jesus. Foram quatro dias inesquecíveis! O Encontro teve início às 17:00h do dia 5 de março, com a entrega de crachás e copos, divisão dos grupos da gincana e momentos emocionantes, tanto no enduro à pé noturno, quanto na adoração que finalizou o dia. O local do encontro, o Seminário Diocesano de Marilândia, proporcionou uma estrutura confortável para os retirandos, de paz, descanso, com uma vista linda. Esse momento foi marcante na vida dos participantes. Com o tema:<b>"Buscai as coisas do alto"</b> e o lema: "Jovem não te detenhas pois o Senhor está contigo", foi proporcionado vários meios de aproximação com a vida que leva para a verdadeira felicidade.<br>
-		 <a class="link" href="fotosRetiro2011.php"> Confira as fotos do encontro!</a>
+	<div id="noticia"><a ><h3>Dia Nacional da Juventude 2011</h3></a>
+        <a > <img class="home" src="http://farm6.static.flickr.com/5134/5558666389_6b3acb50c5_m.jpg"></a>
+        <p class="home"> Neste ano, no Dia Nacional da Juventude - 30 de outubro, ocorrerá a Marcha Capixaba contra a violência e extermínio de jovens em Vitória. Será um dia renovador. O DNJ 2011 tem como tema:"Juventude e protagonismo feminino" e como lema:"Jovens mulheres tecendo relações de vida". Haverá uma intensa programação que englobará todo o domingo. A marcha está prevista para sair da Praia de Camburi as 8:30 e seguir até a Praça do Papa, onde acontecerá uma Celebração Eucarística e uma série de apresentações culturais. Vc não pode ficar fora dessa!<br>
+		 <a class="link" href=""> Em breve mais informações!</a>
 		 </p>
 	</div>
 

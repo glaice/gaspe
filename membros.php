@@ -44,7 +44,7 @@ include "pos_cabecalho.php";
             <p>Aniversário: 03/11<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="http://farm7.static.flickr.com/6125/6033171147_cfc284c9b8_m.jpg">
+            <img src="images/membros/alex.jpg">
             <p class="nome_imagem"> Alex </p>
             <p>Aniversário: 13/11<br></p>        
         </div>
@@ -64,7 +64,7 @@ include "pos_cabecalho.php";
             <p>Aniversário: 22/09<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="http://farm7.static.flickr.com/6063/6033727578_56a845fd3f_m.jpg">
+            <img src="images/membros/carol.jpg">
             <p class="nome_imagem"> Carolina </p>
             <p>Aniversário: 25/01<br></p>        
         </div>
@@ -74,7 +74,7 @@ include "pos_cabecalho.php";
             <p>Aniversário: 13/07<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="http://farm7.static.flickr.com/6061/6033728136_2bbf3d27cb_m.jpg">
+            <img src="images/membros/cristiano.JPG">
             <p class="nome_imagem"> Cristiano </p>
             <p>Aniversário: 11/01<br></p>
         </div>
@@ -141,9 +141,9 @@ include "pos_cabecalho.php";
             <p>Aniversário: <br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/vagner.jpg">
+            <img src="">
             <p class="nome_imagem"> Lucas Henrique </p>
-            <p>Aniversário: <br></p> 
+            <p>Aniversário: 25/09<br></p> 
         </div>
         <div id="imagem-esquerda">
             <img src="http://farm7.static.flickr.com/6079/6033169977_345a4029b6_m.jpg">
@@ -194,6 +194,11 @@ include "pos_cabecalho.php";
             <img src="">
             <p class="nome_imagem"> Stefane </p>
             <p>Aniversário: 26/09<br></p>
+        </div>
+        <div id="imagem-esquerda">
+            <img src="images/membros/vagner.jpg">
+            <p class="nome_imagem"> Vagner </p>
+            <p>Aniversário: 23/09<br></p> 
         </div>
         <div id="imagem-esquerda">
             <img src="images/membros/wanderson.jpg">

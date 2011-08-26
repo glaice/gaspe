@@ -44,7 +44,7 @@ include "pos_cabecalho.php";
             <p>Aniversário: 03/11<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/alex.jpg">
+            <img src="images/membros/alex.JPG">
             <p class="nome_imagem"> Alex </p>
             <p>Aniversário: 13/11<br></p>        
         </div>

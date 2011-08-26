@@ -44,7 +44,7 @@ include "pos_cabecalho.php";
             <p>Aniversário: 03/11<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/alex.JPG">
+            <img src="http://farm7.static.flickr.com/6192/6082856821_82a32c7baf_t.jpg">
             <p class="nome_imagem"> Alex </p>
             <p>Aniversário: 13/11<br></p>        
         </div>
@@ -74,7 +74,7 @@ include "pos_cabecalho.php";
             <p>Aniversário: 13/07<br></p>
         </div>
         <div id="imagem-esquerda">
-            <img src="images/membros/cristiano.JPG">
+            <img src="http://farm7.static.flickr.com/6063/6082856783_81a518966c_t.jpg">
             <p class="nome_imagem"> Cristiano </p>
             <p>Aniversário: 11/01<br></p>
         </div>

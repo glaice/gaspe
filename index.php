@@ -12,7 +12,7 @@ include "pos_cabecalho.php";
 
 ?>
 	<div id="noticia"><a  href="http://www.pma.es.gov.br/imprensa/noticias/politica-para-mulheres-e-pauta-de-conferencia-municipal-em-aracruz/"><h3>III Conferência Municipal de Política para Mulheres</h3></a>
-        <a  href="http://www.pma.es.gov.br/imprensa/noticias/politica-para-mulheres-e-pauta-de-conferencia-municipal-em-aracruz/"> <img class="home" src="images/mulheres.jpg"></a>
+        <a  href="http://www.pma.es.gov.br/imprensa/noticias/politica-para-mulheres-e-pauta-de-conferencia-municipal-em-aracruz/"> <img class="home" src="http://farm7.static.flickr.com/6191/6082856837_1e9f75c82b_m.jpg"></a>
         <p class="home"> As mulheres vêm conquistando cada dia mais seu espaço na sociedade. Visando discutir e elaborar políticas públicas voltadas à construção da igualdade, fortalecendo a autonomia econômica, social, cultural e política e, ao mesmo tempo, contribuindo para a erradicação de extrema pobreza e exercício pleno da cidadania das mulheres, será realizada em Aracruz, a III Conferência Municipal de Política para Mulheres. O encontro, que acontece no dia 31 de agosto, na EMEF “Placidino Passos”, a partir das 8 horas é uma ação da Secretaria Municipal de Desenvolvimento Social (Semds).<br>
 		 <a class="link" href="http://www.pma.es.gov.br/imprensa/noticias/politica-para-mulheres-e-pauta-de-conferencia-municipal-em-aracruz/"> Leia mais...</a>
 		 </p>

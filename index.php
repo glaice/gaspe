@@ -12,7 +12,7 @@ include "pos_cabecalho.php";
 
 ?>
 	<div id="noticia" ><a ><h3>Dia Nacional da Juventude 2011</h3></a>
-        <a href="http://www.diocesedecolatina.org.br/novodiocese/?page=lernoticia&id=3125"> <img class="home" src="images/dnj.jpg" style="width:120px; height: 160px;"></a>
+        <a href="http://www.diocesedecolatina.org.br/novodiocese/?page=lernoticia&id=3125"> <img class="home" src="http://www.diocesedecolatina.org.br/adm/upload/g_foto1_3125.jpg" style="width:120px; height: 160px;"></a>
         <p class="home" style="width:580px;"> Neste ano, no Dia Nacional da Juventude - 30 de outubro, ocorrerá a Marcha Capixaba contra a violência e extermínio de jovens em Vitória. Será um dia renovador. O DNJ 2011 tem como tema:"Juventude e protagonismo feminino" e como lema:"Jovens mulheres tecendo relações de vida". Haverá uma intensa programação que englobará todo o domingo. A marcha está prevista para sair da Praia de Camburi as 8:30 e seguir até a Praça do Papa, onde acontecerá uma Celebração Eucarística e uma série de apresentações culturais. Você não pode ficar fora dessa!<br>
 		 <a class="link" href="http://www.diocesedecolatina.org.br/novodiocese/?page=lernoticia&id=3125"> Leia mais...</a>
 		 </p>

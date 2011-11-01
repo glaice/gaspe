@@ -11,10 +11,18 @@ include "cabecalho.php";
 include "pos_cabecalho.php";
 
 ?>
-	<div id="noticia" ><a ><h3>Dia Nacional da Juventude 2011</h3></a>
-        <a href="http://www.diocesedecolatina.org.br/novodiocese/?page=lernoticia&id=3125"> <img class="home" src="http://www.diocesedecolatina.org.br/adm/upload/g_foto1_3125.jpg" style="width:120px; height: 160px;"></a>
-        <p class="home" style="width:580px;"> Neste ano, no Dia Nacional da Juventude - 30 de outubro, ocorrerá a Marcha Capixaba contra a violência e extermínio de jovens em Vitória. Será um dia renovador. O DNJ 2011 tem como tema:"Juventude e protagonismo feminino" e como lema:"Jovens mulheres tecendo relações de vida". Haverá uma intensa programação que englobará todo o domingo. A marcha está prevista para sair da Praia de Camburi as 8:30 e seguir até a Praça do Papa, onde acontecerá uma Celebração Eucarística e uma série de apresentações culturais. Você não pode ficar fora dessa!<br>
-		 <a class="link" href="http://www.diocesedecolatina.org.br/novodiocese/?page=lernoticia&id=3125"> Leia mais...</a>
+
+	<div id="noticia" ><a href="retiro2011.php" ><h3>7° Retiro Espiritual de Carnaval</h3></a>
+        <a href="retiro2011.php"><img src="images/retiro_divulga.jpg" style="width:170px; height:140px;"></a>
+        <p class="home"> Estão abertas as inscrições para o 7° Retiro Espiritual de Carnaval! Em 2012, faremos dos dias de carnaval, dias inesquecíveis! O retiro espiritual acontecerá no Projeto Santa Clara, em Ponta Fruta (Vila Velha) e tem como tema: "É tempo de ser Jovem" e Lema: "A vida é mais que um mero poema". Vagas limitadas! Faça já sua inscrição! Venha  participar conosco!<br>
+		 <a class="link" href="retiro2011.php"> Leia mais...</a>
+		 </p>
+	</div>
+
+	<div id="noticia" ><a href="fotosDNJ.php"><h3>Dia Nacional da Juventude 2011</h3></a>
+        <a href="fotosDNJ.php"> <img class="home" src="http://www.diocesedecolatina.org.br/adm/upload/g_foto1_3125.jpg" style="width:120px; height: 160px;"></a>
+        <p class="home" style="width:580px;"> Neste ano, no Dia Nacional da Juventude - 30 de outubro, ocorreu a Marcha Capixaba contra a violência e extermínio de jovens em Vitória. Foi um dia renovador. O DNJ 2011 teve como tema:"Juventude e protagonismo feminino" e como lema:"Jovens mulheres tecendo relações de vida". Houve uma intensa programação que englobou todo o domingo. A marcha saiu da Praia de Camburi e seguiu até a Praça do Papa, onde aconteceu uma Celebração Eucarística e uma série de apresentações culturais. Confira a participação da juventude!<br>
+		 <a class="link" href="fotosDNJ.php"> Veja as fotos! </a>
 		 </p>
 	</div>
 

@@ -17,6 +17,11 @@ include "pos_cabecalho.php";
         <h2>Retiros Espirituais de Carnaval</h2>
 
         <div id="fotos">
+        <a href="fotosProjetoSC.php"><h2>Local Retiro 2012:</h2></a>
+        <p><img src="http://farm6.static.flickr.com/5134/5558666389_6b3acb50c5_t.jpg">O 7° Retiro Espiritual de Carnaval do GASPE acontecerá no Projeto Santa Clara, em Ponta da Fruta (Vila Velha -ES). A estrutura do local é adequada para acomodar 120 pessoas confortavelmente (60 suítes com duas camas em cada) e para vivenciarmos momentos de reflexão, fé e animação. Você não poderá perder esse retiro!</p>
+        </div>
+
+        <div id="fotos">
         <a href="fotosRetiro2011.php"><h2>Retiro 2011:</h2></a>
         <p><img src="http://farm6.static.flickr.com/5134/5558666389_6b3acb50c5_t.jpg">O sexto retiro Espiritual de Carnaval do GASPE aconteceu no Seminário de Marilândia. Com o tema: "Buscai as coisas do alto", e o lema: "Jovem: não te detenhas, pois o Senhor está contigo" os jovens tiveram momentos espirituais, emocionantes e alegres durante os quatro dias de carnaval.</p>
         </div>

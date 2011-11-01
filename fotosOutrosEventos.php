@@ -15,6 +15,17 @@ include "pos_cabecalho.php";
         <h2>Outros Eventos</h2>
 
         <div id="fotos">
+        <a href="fotosDNJ.php"><h2>Dia Nacional da Juventude - DNJ 2011:</h2>
+        <p> <img src="http://farm7.static.flickr.com/6041/6296346813_02efe523c8_t.jpg">O DNJ de 2011 foi surpreendente!!! O dia 30 de outubro de 2011 foi marcado pela Marcha Capixaba contra a Violência e o Extermínio de Jovens, em que os jovens sairam da Praia de Camburi a caminho da Praça do Papa, onde aconteceram várias atrações culturais. Confira as fotos!</p></a>
+        </div>
+
+        <div id="fotos">
+        <a href="fotosBarraTriunfo.php"><h2>Confraternização em Barra do Triunfo:</h2>
+        <p> <img src="http://farm7.static.flickr.com/6038/6300822014_b11ddb6fdc_t.jpg">No dia 09 de outubro de 2011 o GASPE vivenciou momentos incríveis na comunidade São José, em Barra do Triunfo. Após cantar na celebração, permaneceram em confraternização durante o restante do dia com muita animação.</p></a>
+        </div>
+
+
+        <div id="fotos">
         <a href="fotosEncontroCMJ.php"><h2>Encontro espiritual no CMJ em Colatina:</h2>
         <p> <img src="http://farm5.static.flickr.com/4153/5089621960_32ae5c4729_t.jpg">Esse encontro aconteceu em Colatina, no Centro Marista da Juventude (CMJ), nos dias 25 e 26 de abril de 2010. Essa foi a segunda visita do grupo. Foi muito animado e cheio de momentos inesquecíveis. </p></a>
         </div>

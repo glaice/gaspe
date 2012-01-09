@@ -2,7 +2,7 @@
                 <div id="menu">
                     <ul id="menu-ul" class="menu-ul">
 
-<!--                        <li class="menu-cinza"><a href="downloads.php">Downloads</a></li>  -->
+                        <li class="menu-cinza"><a href="login.php">Login</a></li>  
                         <li class="menu-cinza"><a href="contatos.php">Fale Conosco</a></li>
                         <li class="menu-cinza"><a href="projetos.php ">Projetos</a></li>
                         <li class="menu-vermelho menu">

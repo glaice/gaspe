@@ -1,8 +1,6 @@
             <div id="area-menu-superior">
                 <div id="menu">
-                    <ul id="menu-ul" class="menu-ul">
-
-                        <li class="menu-cinza"><a href="login.php">Login</a></li>  
+                    <ul id="menu-ul" class="menu-ul"> 
                         <li class="menu-cinza"><a href="contatos.php">Fale Conosco</a></li>
                         <li class="menu-cinza"><a href="projetos.php ">Projetos</a></li>
                         <li class="menu-vermelho menu">
@@ -23,15 +21,27 @@
                     </ul>
                 </div> <!--/ Fechando menu /-->
             </div> <!--/ Fechando area-menu-superior /-->
-            <div id="area-menu-lateral" >
+            <div id ="area-lateral">
+                <div id="area-menu-lateral" >
                 <ul>
                     <li><a href="paroquia.php">Paróquia</a></li>
 <!--                    <li><a href="comunidade.php">Comunidade</a></li>-->
                     <li><a href="agenda.php">Agenda 2011</a></li>
                 </ul>
                 <a href="mensagem.php"style="line-height:1.5em; padding:28px 10px; font-weight:bold;">Reuniões e ensaios nos sábados as 17:00 horas, na Matriz. Venha nos visitar!!!</a>
-            </div> <!--/ Fechando area-menu\-lateral /-->
+                </div> <!--/ Fechando area-menu\-lateral /-->
+                <div id="area-menu-lateral-login" >
+                <ul>
+<?php if(isset($_COOKIE["logado"]) and $_COOKIE["logado"]== "sim"){    ?>
+                        <li class="menu-cinza"><a href="./desloga.php">Sair</a></li>  
 
+<?php } else {?>
+                        <li class="menu-cinza"><a name = "login" href="./#login">Entrar</a></li> 
+<?php  include "login.php";  } ?>
+                </ul>
+                </div>
+        </div>
+            
 <script type="text/javascript"><!--//--><![CDATA[//><!--
 startList = function() {
 if (document.all&&document.getElementById) {

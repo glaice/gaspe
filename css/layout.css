@@ -177,6 +177,14 @@
                 list-style:none;
             }
 
+            #area-menu-lateral-login p.erro{
+                color: red;
+                font-weight: bold;
+                text-align: center;
+                font-size:12px;
+
+            }
+
 /****************************************************************
 ******************* Area Menu Superior **************************
 ****************************************************************/

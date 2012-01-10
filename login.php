@@ -10,7 +10,7 @@
 <?php
 
 if ( isset($_GET["mensagem"]) ){
-    echo  $_GET["mensagem"];
+    echo "<p class='erro'>". $_GET["mensagem"]."</p>";
 }
 
 ?>

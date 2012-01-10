@@ -33,12 +33,16 @@
                 <div id="area-menu-lateral-login" >
                 <ul>
 <?php if(isset($_COOKIE["logado"]) and $_COOKIE["logado"]== "sim"){    ?>
-                        <li class="menu-cinza"><a href="./desloga.php">Sair</a></li>  
+                        <li class="menu-cinza"><a href="./desloga.php">Sair</a></li>
+                        </ul>
+<a style="line-height:1.5em; padding:18px 10px;font-weight: bold;"> Olá, Glaice. Seja bem vinda!</a>
 
 <?php } else {?>
                         <li class="menu-cinza"><a name = "login" href="./#login">Entrar</a></li> 
+                        </ul>
+
 <?php  include "login.php";  } ?>
-                </ul>
+
                 </div>
         </div>
             

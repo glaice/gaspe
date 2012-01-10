@@ -9,10 +9,10 @@
               header("Location: "."./index.php"); 
               setcookie("logado", "sim", time()+3600, "/");
             }else{
-                $mensagem = 'Senha incorreta';
+                $mensagem = 'Senha incorreta!';
             }
         }else{
-            $mensagem = 'Nome incorreto';
+            $mensagem = 'Nome incorreto!';
         }
     }
 

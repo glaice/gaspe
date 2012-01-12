@@ -15,17 +15,15 @@ include "mysqlConfig.php";
   
         if (mysql_num_rows($result)>0){
                 $idSessao = md5($nome);
-                echo $idSessao;
                 $line = mysql_fetch_array($result, MYSQL_ASSOC);
                 $idUsuario = $line["id"];
-                $query = 'INSERT INTO `GASPE`.`Logado` (`id`, `idUsuario` , `dataLogin`)
+                $query = 'INSERT INTO `Logado` (`id`, `idUsuario` , `dataLogin`)
                            VALUES ("'.$idSessao.'", "'.$idUsuario.'", NOW( ))';
-                echo $query;
                 $result = mysql_query($query) or die ("<p class=err>Error - Query failed: ".mysql_error()."</p>");
-
 
               header("Location: "."./index.php"); 
               setcookie("idDaSessao",$idSessao, time()+3600, "/");
+
         }else{
             $mensagem = 'Nome ou senha incorretos!';
         }

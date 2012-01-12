@@ -6,10 +6,9 @@ cabecalho(' Retiro Espiritual de carnaval GASPE 2011');
 
 ?>
 
-	<div id="titulos"><h2>7º Retiro Espiritual de Carnaval GASPE</h2></div>
-	<div id="imagem-direita">
-                <img src="/images/retiro_divulga.jpg" style="margin-right:5px; width:240px; height: 265px;">
-                <p> O GASPE convida a todos a participarem do 7º Retiro Espiritual de Carnaval do grupo. Serão quatro dias inesquecíveis!<br><br>O Encontro terá início às 16:00h do dia 18 de fevereiro de 2012, com muito louvor e momentos emocionantes. O local do encontro, o Projeto Santa Clara, em Ponta da Fruta (Vila Velha), proporciona um lugar de paz e harmonia. A estrutura do local nos fornece ainda um maior conforto e descanso (ver detalhes mais abaixo).<br><br>Esse momento será marcante na vida dos participantes. Com o tema:<b>"É tempo de ser Jovem!"</b> e o lema: "A vida é mais que um mero poema", será proporcionado vários momentos de reflexão do que estamos vivenciando no nosso dia a dia e de MUITA animação, pois É TEMPO DE SER JOVEM!<br><br></p>
+	<div id="noticia"><h3>7º Retiro Espiritual de Carnaval GASPE</h3>
+	<p> <img src="/images/retiro_divulga.jpg" style="margin-right:5px; width:200px; height: 225px;">
+                O GASPE convida a todos a participarem do 7º Retiro Espiritual de Carnaval do grupo. Serão quatro dias inesquecíveis!<br><br>O Encontro terá início às 16:00h do dia 18 de fevereiro de 2012, com muito louvor e momentos emocionantes. O local do encontro, o Projeto Santa Clara, em Ponta da Fruta (Vila Velha), proporciona um lugar de paz e harmonia. A estrutura do local nos fornece ainda um maior conforto e descanso (ver detalhes mais abaixo).<br><br>Esse momento será marcante na vida dos participantes. Com o tema:<b>"É tempo de ser Jovem!"</b> e o lema: "A vida é mais que um mero poema", será proporcionado vários momentos de reflexão do que estamos vivenciando no nosso dia a dia e de MUITA animação, pois É TEMPO DE SER JOVEM!<br><br></p>
 
                 <h2> INFORMAÇÕES IMPORTANTES </h2>
                 

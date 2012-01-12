@@ -7,7 +7,7 @@ cabecalho('GASPE');
 ?>
 
     <div id="noticia" ><a href="" ><h3>1° Fest Jovem GASPE</h3></a>
-        <a href=""><img src="/images/retiro_divulga.jpg" style="width:170px; height:140px;"></a>
+        <a href=""><img src="/images/fest_jovem.jpg" style="width:170px; height:140px;"></a>
         <p class="home">Venha participar do 1° FEST JOVEM GASPE! No sábado, dia 21 de janeiro, faremos um animado festival em que você e mais vários competidores de diferentes estilos e artes poderão demonstrar a verdadeira alegria de Cristo. Se você gosta de cantar, dançar, atuar, ou praticar qualquer outra atividade interessante se inscreva o mais rápido possível com os jovens do grupo. Agora, se você acha que não quer participar concorrendo a premiação, venha prestigiar esse momento tão animado! Teremos várias quitutes e bebidas vendendo nas barraquinhas e outras surpresas. Não deixe de participar!!! De um modo ou de outro você só tem a ganhar! Entrada: 1kg de alimento não perecível.<br>
 		 </p>
 	</div>

@@ -1,9 +1,9 @@
 
-         <form id="FORM1" name="form1" method="post" action="logar.php">
+         <form id="FORM1" name="form1" method="post" action="/logar.php">
                   <p >Login:</p>
                   <p><input name="nome" type="text" id="nome" /></p>
                   <p>Senha:</p>
-                  <p><input name="senha" type="text" id="senha" /></p>
+                  <p><input name="senha" type="PASSWORD" id="senha" /></p>
                   <p style="text-align:center; padding-left: 4px;"><input style=" width:100px;" type="submit" name="Submit" value="Entrar" /></p>
             </form>  
 

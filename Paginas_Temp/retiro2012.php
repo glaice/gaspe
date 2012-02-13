@@ -16,12 +16,10 @@ cabecalho(' Retiro Espiritual de carnaval GASPE 2011');
                     <li><b>Quando acontecerá?</b> 18 à 21 de fevereiro de 2012</li>
                     <li><b>Onde?</b> No Projeto Santa Clara, em Ponta da Fruta (Vila Velha).</li>
                     <li><b>Como faço para me inscrever?</b> A ficha de inscrição pode ser adiquirida na secretaria da Paróquia Santa Teresinha do Menino Jesus ou com os coordenadores do GASPE. Também é possível escrever um e-mail para: contato@gaspe.com.br, pelo qual receberá orientações para a inscrição, ou pelo FALE CONOSCO desse próprio site.</li>
-                    <li><b>O valor da inscrição?</b> R$ 80,00 reais até 22/01/2012 e após, R$ 95,00.</li>
+                    <li><b>O valor da inscrição?</b> R$ 95,00.</li>
                     <li><b>Conheça o local do retiro:</b> <a href="../Paginas_Fotos/fotosProjetoSC.php">Projeto Santa Clara</a></li>
                     <li><b>Vagas limitadas:</b> devido a quantidade de suites, teremos somente 120 vagas.</li>
                     <li><b>Menores de Idade:</b> Caso você possua menos de 18 anos completo até a data de início do retiro, favor procurar a coordenação do retiro para maiores orientações. </li>
-                    <li><b>Data e local da reunião geral:</b>04 de Fevereiro de 2012, ás 17:00 horas, no salão da igreja matriz São José Operário - Paróquia Santa Teresinha do Menino Jesus. </li>
-                    <li><b>Missa de abertura:</b>11 de Fevereiro de 2012, ás 19:30 horas, na matriz São José Operário. </li>
 </li>
                     <li><b>Informação sobre a rifa:</b>Há uma rifa que você pode adquirir com a coordenação do GASPE. Cada cartela de rifa vendida abate R$10,00 do valor de sua inscrição, a rifa é uma oportunidade única de você se ajudar e também ajudar a realização do retiro.
 </li>
@@ -40,40 +38,49 @@ personalizados, além de muitas boas recordações e amigos.
                     <li> Comunidade São José Operário</li>
                 </ul>
 
-        <p style="font-size:16px;"><br><b> Venha ser um patrocinador do nosso retiro! <br>Ajude-nos a contruir mais esse momento!</b>
-
-
-<!--
-		<div id="area-patrocinio">
-		        <img src="images/patrocinador/1.png">
-		        <img src="images/patrocinador/2.png">
-		        <img src="images/patrocinador/3.jpg">
-		        <img src="images/patrocinador/4.jpg">
-		        <img src="images/patrocinador/5.jpg">
-		        <img src="images/patrocinador/6.jpg">
-		        <img src="images/patrocinador/7.jpg">
-		        <img src="images/patrocinador/8.jpg">
-		        <img src="images/patrocinador/9.jpg">
-		        <img src="images/patrocinador/10.jpg">
-		        <img src="images/patrocinador/11.jpg">
-		        <img src="images/patrocinador/12.png">
-		        <img src="images/patrocinador/13.png">
-		        <img src="images/patrocinador/14.jpg">
-		</div>
-
-		<p style="font-size:16px;"><br><b> Ou seja um colaborador do nosso retiro!</b>
+        <p style="font-size:16px;color: #65564a;"><br><b> Venha ser um patrocinador do nosso retiro! <br>Ajude-nos a contruir mais esse momento!</b>
 
 		<div id="area-patrocinio">
-	      		<img style="width:405px; height: 120px;" src="images/colaborador/C3.png">
-		        <img src="images/colaborador/C2.jpg">
-		        <img style="clear:left" src="images/colaborador/C1.JPG">
-		        <img src="images/colaborador/C4.png"> 
-		        <img src="images/colaborador/C5.png"> 
-		        <img src="images/colaborador/C6.png"> 
-		        <img src="images/colaborador/C7.png"> 
-		        <img src="images/colaborador/C8.png"> 
+		        <img src="/images/patrocinador/1.png">
+		        <img src="/images/patrocinador/2.png">
+		        <img src="/images/patrocinador/3.jpg">
+		        <img src="/images/patrocinador/4.jpg">
+		        <img src="/images/patrocinador/5.jpg">
+		        <img src="/images/patrocinador/6.jpg">
+		        <img src="/images/patrocinador/7.png">
+		        <img src="/images/patrocinador/8.jpg">
+		        <img src="/images/patrocinador/9.jpg">
+		        <img src="/images/patrocinador/10.jpg">
+		        <img src="/images/patrocinador/11.jpg">
+		        <img src="/images/patrocinador/12.png">
+		        <img src="/images/patrocinador/13.JPG">
+		        <img src="/images/patrocinador/14.jpg">
+		        <img src="/images/patrocinador/15.jpg">
+		        <img src="/images/patrocinador/16.jpg">
+		        <img src="/images/patrocinador/17.jpg">
+		        <img src="/images/patrocinador/18.jpg">
 		</div>
--->
+
+		<p style="font-size:16px; color: #65564a;"><br><b> Ou seja um colaborador do nosso retiro!</b>
+
+		<div id="area-patrocinio">
+		        <img src="/images/colaborador/1.jpg">
+		        <img src="/images/colaborador/2.JPG">
+		        <img src="/images/colaborador/3.jpg"> 
+		        <img src="/images/colaborador/4.png"> 
+		        <img src="/images/colaborador/5.jpg"> 
+		        <img src="/images/colaborador/6.JPG"> 
+		        <img src="/images/colaborador/7.jpg"> 
+		        <img src="/images/colaborador/8.png"> 
+		        <img src="/images/colaborador/9.png"> 
+		        <img src="/images/colaborador/10.png">
+		        <img src="/images/colaborador/11.png">
+		        <img src="/images/colaborador/12.png">
+		        <img src="/images/colaborador/13.png"> 
+
+
+		</div>
+
 	</div>
 
 

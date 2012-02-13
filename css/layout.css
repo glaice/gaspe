@@ -450,12 +450,16 @@
 ****************************************************************/
 
             #area-patrocinio {
-                width:760px;
-                min-height:250px;
+                width:722px;
+                min-height:100px;
                 float:left;
                 margin-top:16px;
                 margin-bottom:16px;
                 margin-left:5px;
+                padding-bottom:15px;
+                padding-top:10px;
+                padding-left:10px;
+                padding-right:10px;
                 background:white;
                 -moz-border-radius:10px;
                 -webkit-border-radius:0px;
@@ -469,6 +473,7 @@
                 height: 80px;
                 padding:20px;
 		margin-left: 0px;
+		margin-right: 0px;
 	    }
 
 

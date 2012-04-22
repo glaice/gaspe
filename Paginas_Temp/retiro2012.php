@@ -71,7 +71,7 @@ personalizados, além de muitas boas recordações e amigos.
 		        <img src="/images/colaborador/5.jpg"> 
 		        <img src="/images/colaborador/6.JPG"> 
 		        <img src="/images/colaborador/7.jpg"> 
-		        <img src="/images/colaborador/8.png"> 
+		        <img src="/images/colaborador/ARETEC.png"> 
 		        <img src="/images/colaborador/9.png"> 
 		        <img src="/images/colaborador/10.png">
 		        <img src="/images/colaborador/11.png">

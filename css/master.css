@@ -1,0 +1,83 @@
+@import url("layout.css");
+
+.clear { clear:both;}
+.float-left {float:left}
+
+
+
+/* menu ******************************************************************************/
+a {text-decoration:none}
+a:hover {text-decoration:underline;}
+#menu { padding-top:8px;padding-bottom:0px;border:0px solid red;width:800px; float:right;}
+#menu a { color:#666666;font-size:15px;padding:0px 10px;}
+#menu a:hover {text-decoration:none;}
+#menu li {color:#b93327; float:right;margin:0 ;margin-right: 5px;padding-top:5px;padding-bottom:5px;}
+
+#menu li ul li {display:block;float:none;position:relative;z-index:1000;padding:5px 5px;padding-top:0;padding-right:0;}
+li.menu ul {	position:relative;	display: none;font-size:14px;z-index:1000;	}
+#menu li ul li a {color:#fff;display:block;width:auto;padding:2px 5px;font-family:"Arial";}
+#menu li ul li a:hover {background:#231f20;}
+
+#menu li.menu-vermelho {width: 95px;max-width:95px!important;height:18px;position:relative;z-index:1;}
+#menu li.menu-vermelho ul {width:160px;}
+#menu li.menu-advogado {width: 85px;height:18px; position:relative;z-index:1;}
+#menu li.menu-advogado ul {width:210px;}
+#menu li.menu-cidadao {width: 72px;height:18px;position:relative;z-index:1;}
+#menu li.menu-cidadao ul {width:193px;}
+
+#menu li.menu-cinza:hover { 
+    background-color:#E6E6E6;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}
+
+#menu li a.submenu { color:inherit;}
+#menu li a.submenu:hover { color:#fff;}
+#menu li.menu:hover, #menu li.menu.over {
+        background-color:#b93327; 
+        color:#FFF;
+        opacity:0.85;
+        -moz-border-radius-topleft: 8px;
+        -moz-border-radius-topright: 8px;
+        -moz-box-shadow:0px 0px 10px #333;
+
+        -webkit-border-top-left-radius: 8px;
+        -webkit-border-top-right-radius: 8px;    
+        -webkit-box-shadow: 0px 0px 10px #333;
+        
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        box-shadow:0px -2px 10px #333;
+}
+
+#menu li:hover ul, li.over ul {position:relative; 
+    display: block; 
+    top:7px;
+    z-index:1000;
+/*    opacity:0.85;*/
+    color:white;
+    background-color:#b93327;
+    padding-top:7px;
+    -moz-border-radius: 10px;
+    -moz-border-radius-topleft: 0;
+    -moz-box-shadow:0px 5px 10px #333;
+
+    -webkit-border-radius: 10px;
+    -webkit-border-top-left-radius: 0;
+    -webkit-box-shadow:0px 5px 10px #333;
+    border-radius: 10px;
+    border-top-left-radius: 0;
+    box-shadow:0px 5px 10px #333
+
+}
+
+/*******************************************************************************/
+
+
+
+/************************************************************/
+/* Fix IE. Hide from IE Mac \*/
+* html ul li { float: left; height: 1%; }
+* html ul li a { height: 1%; }
+/* End */
+

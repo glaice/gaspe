@@ -28,12 +28,12 @@ cabecalho('GASPE');
 		        <img src="/images/patrocinador/11.jpg">
 		        <img src="/images/patrocinador/12.png">
 		        <img src="/images/patrocinador/13.JPG">
-		        <img src="/images/patrocinador/14.pub">
+		        <img src="/images/patrocinador/USA.bmp">
 		        <img src="/images/patrocinador/15.jpg">
 		        <img src="/images/patrocinador/16.jpg">
 		        <img src="/images/patrocinador/17.jpg">
 		        <img src="/images/patrocinador/18.jpg">
-                <img src="/images/patrocinador/19.pub">
+                <img src="/images/patrocinador/19.jpg">
 		</div>
 
 		<p style="font-size:16px; color: #65564a;"><br><b> Ou seja um colaborador do nosso retiro!</b></p>
